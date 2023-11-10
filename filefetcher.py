@@ -35,4 +35,4 @@ async def find_files(ctx, search_string):
         await ctx.send(f"No files found with '{search_string}' in the last 100 messages.")
 
 
-bot.run('MTE3MjQxNzgwOTQyMzI4NjM3NQ.GqsC1d.A25Di-dtpemJLytBRv3IbwJxq28OshChZjDE9E')
+bot.run('YOUR TOKEN')
